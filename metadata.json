@@ -1,0 +1,8 @@
+{
+  "name": "MedForge AI",
+  "description": "A clinical intelligence framework for medical students and professionals, featuring AI-driven study plans, note analysis, and mentor support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
